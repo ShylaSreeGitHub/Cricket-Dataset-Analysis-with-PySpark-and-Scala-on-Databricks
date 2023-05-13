@@ -1,0 +1,16 @@
+Data Dictionary
+---------------
+The data represents batter's data in the sports of Cricket. A batter in Cricket is similar to a batter in Baseball.
+
+Span - Playing duration
+Mat - Number of matches played
+Inns - Innings (represents how many times the batter got a chance to bat in total matches played)
+NO - Not out (represents how many times the batter remained not out)
+Runs - Total number of runs scored by the batter
+HS - Highest score by the batter in a match. * respresents that the batter was Not Out.
+Ave - Batting Average (represents the average runs per innings)
+BF - Number of balls faced (in terms of Baseball, it is equivalent to number of pitches recieved)
+SR - Strike Rate (number of runs scored per 100 balls)
+100 - Represents the number of times the batter crossed the score of 100
+50 - Represents the number of times the batter crossed the score of 50
+0 - Represents the number of times the batter got out for a score of Zero
